@@ -1,9 +1,3 @@
-
-
-text-indent: 50px;<html>
-head {
-    background-color: DarkSlateBlue;}
-<style>
 body {
     background-color: DarkSlateBlue;
     text-align: center;}
@@ -19,7 +13,4 @@ h2 {background-color: DarkSlateBlue;
 p {background-color: DarkSlateBlue;
     text-align: center;
     text-indent: 50px;}
-  </body>
-</style>
-</head>
 
