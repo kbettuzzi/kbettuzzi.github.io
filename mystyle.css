@@ -5,13 +5,17 @@ body {
     background-color: DarkSlateBlue}
        
 h1 {background-color: DarkSlateBlue;
-    margin-left: 40px;}
-p {background-color: DarkSlateBlue;}
+    }
+p {background-color: DarkSlateBlue;
+    }
 
-div {background-color: DarkSlateBlue;}
+div {background-color: DarkSlateBlue;
+    }
     
-h2 {background-color: DarkSlateBlue;}
-p {background-color: DarkSlateBlue;}
+h2 {background-color: DarkSlateBlue;
+    }
+p {background-color: DarkSlateBlue;
+    }
   </body>
 </style>
 </head>
