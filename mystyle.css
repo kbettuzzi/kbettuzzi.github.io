@@ -3,8 +3,13 @@ body {
     text-align: center;}
        
 h1 {background-color: MidnightBlue;
-    text-align: center;
-    boarder: 1px solid white;}
+    text-align: center;}
+div {
+    background-color: MidnightBlue;
+    width: 300px;
+    border: 3px solid white;
+    padding: 25px;
+    margin: 25px;}
 
 p {background-color: MidnightBlue;
     text-align: center;
