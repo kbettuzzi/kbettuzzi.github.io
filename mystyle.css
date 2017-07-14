@@ -1,4 +1,5 @@
 
+
 text-indent: 50px;<html>
 head {
     background-color: DarkSlateBlue;}
@@ -6,6 +7,8 @@ head {
 body {
     background-color: DarkSlateBlue;
     text-align: center;}
+body.uppercase {
+    text-transform: uppercase;
        
 h1 {background-color: DarkSlateBlue;
     text-align: center;}
