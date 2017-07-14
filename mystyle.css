@@ -3,13 +3,16 @@ body {
     text-align: center;}
        
 h1 {background-color: MidnightBlue;
-    text-align: center;}
+    text-align: center;
+    boarder: 1px solid white;}
+
 p {background-color: MidnightBlue;
     text-align: center;
     text-indent: 50px;}
     
 h2 {background-color: MidnightBlue;
     text-align: center;}
+
 p {background-color: MidnightBlue;
     text-align: center;
     text-indent: 50px;}
