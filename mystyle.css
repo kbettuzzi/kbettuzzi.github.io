@@ -10,7 +10,8 @@ div {vertical-align: center;
     width: 300px;
     border: 3px solid white;
     padding: 25px;
-    margin: 25px;}
+    margin: 25px;
+    text-color: white;}
 
 p {background-color: MidnightBlue;
     text-align: center;
