@@ -1,4 +1,5 @@
-<html>
+
+text-indent: 50px;<html>
 head {
     background-color: DarkSlateBlue;}
 <style>
@@ -9,12 +10,14 @@ body {
 h1 {background-color: DarkSlateBlue;
     text-align: center;}
 p {background-color: DarkSlateBlue;
-    text-align: center;}
+    text-align: center;
+    text-indent: 50px;}
     
 h2 {background-color: DarkSlateBlue;
     text-align: center;}
 p {background-color: DarkSlateBlue;
-    text-align: center;}
+    text-align: center;
+    text-indent: 50px;}
   </body>
 </style>
 </head>
