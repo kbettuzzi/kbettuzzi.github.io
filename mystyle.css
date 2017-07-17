@@ -13,7 +13,8 @@ div {vertical-align: center;
     padding: 25px;
     padding: center;
     margin: 25px;
-    letter-spacing: 2px;}
+    letter-spacing: 2px;
+    font-size: 150%}
 
 p {background-color: MidnightBlue;
     text-align: center;
