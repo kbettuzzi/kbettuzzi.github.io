@@ -12,7 +12,7 @@ body {background-color: MidnightBlue;
     padding: 10px;}
 
 /*Kathryn Bettuzzi*/
-#Title {background-color: white;
+#Title.uppercase {background-color: white;
     width: 200px;
     border-width: 1px;
     border-color: black;
