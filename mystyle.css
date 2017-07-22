@@ -7,33 +7,35 @@ body {background-color: MidnightBlue;
     height: 100%;
     background-color: white;
     border: 2px solid white;
-    border-radius: 5px;}
+    border-radius: 5px;
+    float: auto;
+    margin: auto;
+    margin: 20px;}
 
 /*Kathryn Bettuzzi*/
-div {vertical-align: center;
-    background-color: MidnightBlue;
+div {background-color: white;
     width: 300px;
-    border: 3px solid white;
+    border: 3px solid black;
     padding: 25px;
-    padding: center;
+    padding: auto;
     margin: 25px;
     letter-spacing: 2px;
     font-size: 150%;
     color: black;}
 
 /*This is a work of progress...*/
-p {background-color: MidnightBlue;
+p {background-color: white;
     text-align: center;
     text-indent: 50px;
     color: black;}
 
 /*Next heading. This is a  test*/
-h2 {background-color: MidnightBlue;
+h2 {background-color: white;
     text-align: center;
     color: black;}
 
 /*Information*/
-p {background-color: MidnightBlue;
+p {background-color: white;
     text-align: center;
     text-indent: 50px;
     color: black;}
