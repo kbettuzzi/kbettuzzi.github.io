@@ -25,6 +25,7 @@ div {background-color: white;
 p {background-color: white;
     text-align: center;
     text-indent: 50px;
+    font-style: italic;
     color: black;}
 
 hr {border-color: black;
