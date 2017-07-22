@@ -27,7 +27,7 @@ p {background-color: white;
     text-indent: 50px;
     color: black;}
 
-hr {color: black;}
+hr {border-color: black;}
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
