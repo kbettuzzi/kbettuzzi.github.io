@@ -1,25 +1,7 @@
 
-body {
-    height: 100%;
-    margin: 0;}
-
-.bg {
-    /* The image used */
-    background-image: kbettuzzi.github.io/img/bridge.JPG("bridge.jpg");}
+body {background-color: MidnightBlue;
+    text-align: center;}
     
-#Webpage { float: center;}
-    
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
-
-
 h1 {background-color: MidnightBlue;
     text-align: center;}
 div {vertical-align: center;
