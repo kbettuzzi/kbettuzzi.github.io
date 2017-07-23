@@ -13,12 +13,14 @@ body {background-color: MidnightBlue;
 /*Kathryn Bettuzzi*/
 #Title {background-color: white;
     text-transform: uppercase;
-    width: 200px;
+    width: 250px;
     padding: 15px;
     margin: auto;
     letter-spacing: 4px;
     font-size: 100%;
-    color: black;}
+    color: black;
+    border-style: solid;
+    border-color: black;}
 
 /*This is a work of progress...*/
 p {background-color: white;
@@ -40,10 +42,11 @@ hr {border-color: black;
 h2 {background-color: white;
     text-align: center;
     color: black;
-    text-size: 100%;}
+    text-size: 90%;}
 
 /*Information*/
 p {background-color: white;
     text-align: center;
     text-indent: 50px;
-    color: black;}
+    color: black;
+    text-size: 90%;}
