@@ -20,7 +20,8 @@ body {background-color: MidnightBlue;
     font-size: 100%;
     color: black;
     border-style: solid;
-    border-color: black;}
+    border-color: black;
+    border-width: 1px;}
 
 /*This is a work of progress...*/
 p {background-color: white;
@@ -36,7 +37,9 @@ hr {border-color: black;
 #Article {border-style: solid;
     border-color: black;
     border-width: 2px;
-    float: right;}
+    float: right;
+    background-color: white;
+    width: 63.75%;}
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
