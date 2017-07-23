@@ -58,13 +58,13 @@ hr {border-color: black;
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
-    text-align: center;
+    text-align: left;
     color: black;
     text-size: 90%;}
 
 /*Information*/
 p {background-color: white;
     text-align: center;
-    text-indent: 50px;
+    text-indent: 20px;
     color: black;
     text-size: 90%;}
