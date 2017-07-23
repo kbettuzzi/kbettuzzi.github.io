@@ -81,7 +81,8 @@ hr {border-color: black;
     width: 72.25%;
     margin-left: 15px;
     margin-right: 15px;
-    top: auto;}
+    top: auto;position: absolute;
+    top: 20px;}
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
