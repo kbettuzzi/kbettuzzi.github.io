@@ -16,12 +16,9 @@ body {background-color: MidnightBlue;
     width: 200px;
     padding: 15px;
     margin: auto;
-    letter-spacing: 4x;
+    letter-spacing: 4px;
     font-size: 100%;
-    color: black;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;}
+    color: black;}
 
 /*This is a work of progress...*/
 p {background-color: white;
