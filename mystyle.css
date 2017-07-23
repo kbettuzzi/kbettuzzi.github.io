@@ -33,6 +33,7 @@ p {background-color: white;
 /*Solid line seperater*/
 hr {border-color: black;
     border-width: 1px;}
+
 /*Border1-Home*/
 #Button1 {float: left;
     border-style: solid;
@@ -40,7 +41,8 @@ hr {border-color: black;
     border-radius: 25px;
     border-width: 1px;
     width: 30%;
-    height: 60px;}
+    height: 60px;
+    background-color: white;}
 
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
 #Article {border-style: solid;
