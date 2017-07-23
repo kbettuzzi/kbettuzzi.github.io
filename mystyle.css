@@ -33,7 +33,8 @@ hr {border-color: black;
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
 #Article {border-style: solid;
     border-color: black;
-    border-width: 2px}
+    border-width: 2px;
+    float: right;}
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
