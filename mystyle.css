@@ -30,6 +30,11 @@ p {background-color: white;
 hr {border-color: black;
     border-width: 1px;}
 
+/*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
+#Article {border-style: solid;
+    border-color: black;
+    border-width: 2px}
+
 /*Next heading. This is a  test*/
 h2 {background-color: white;
     text-align: center;
