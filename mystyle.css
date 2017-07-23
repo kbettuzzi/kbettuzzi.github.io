@@ -55,11 +55,12 @@ hr {border-color: black;
     width: 20%;
     height: 60px;
     background-color: white;
-    margin-left: 20px;}
+    margin-left: 20px;
+    margin-top: 20px;}
 
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
 #Article {border-style: solid;
-    border-color: white;
+    border-color: black;
     border-width: 1px;
     border-radius: 30px;
     float: right;
