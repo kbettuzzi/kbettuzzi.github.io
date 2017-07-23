@@ -39,7 +39,8 @@ hr {border-color: black;
 /*Next heading. This is a  test*/
 h2 {background-color: white;
     text-align: center;
-    color: black;}
+    color: black;
+    text-size: 100%;}
 
 /*Information*/
 p {background-color: white;
