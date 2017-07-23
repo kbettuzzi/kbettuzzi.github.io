@@ -34,7 +34,7 @@ p {background-color: white;
 hr {border-color: black;
     border-width: 1px;}
 
-/*Border1-Home*/
+/*Button1-Home*/
 #Button1 {float: left;
     border-style: solid;
     border-color: black;
@@ -45,8 +45,34 @@ hr {border-color: black;
     background-color: white;
     margin-left: 20px;}
 
-/*Border2-Girls Who Code*/
+/*Button2-Girls Who Code*/
 #Button2 {float: left;
+    clear: left;
+    border-style: solid;
+    border-color: black;
+    border-radius: 25px;
+    border-width: 1px;
+    width: 20%;
+    height: 60px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;}
+
+/*Button2-Blog*/
+#Button3 {float: left;
+    clear: left;
+    border-style: solid;
+    border-color: black;
+    border-radius: 25px;
+    border-width: 1px;
+    width: 20%;
+    height: 60px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;}
+
+/*Button2-Photos/
+#Button4 {float: left;
     clear: left;
     border-style: solid;
     border-color: black;
