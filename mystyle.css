@@ -1,22 +1,28 @@
 body {background-color: MidnightBlue;
-    text-align: center;}
+    text-align: center;
+    background-image: url(https://image.ibb.co/hTfnFQ/brun2.jpg);}
 
 /*Conatiner for all Webpage content*/
-#Webpage {width: 85%;
-    height: 800px;
+#Webpage {width: 75%;
+    height: 85%;
     background-color: white;
     border: 2px solid white;
     border-radius: 30px;
     margin: auto;
-    padding: 10px;}
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);}
 
 /*Kathryn Bettuzzi*/
 #Title {background-color: white;
     text-transform: uppercase;
     width: 250px;
-    padding: 15px;
+    padding: 12px;
     margin: auto;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     font-size: 100%;
     color: black;
     border-style: solid;
@@ -28,7 +34,8 @@ p {background-color: white;
     text-align: center;
     text-indent: 50px;
     font-style: italic;
-    color: black;}
+    color: white;
+    text-shadow: }
 
 /*Solid line seperater*/
 hr {border-color: black;
@@ -36,40 +43,63 @@ hr {border-color: black;
 
 /*Button1-Home*/
 #Button1 {float: left;
-    border-style: solid;
-    border-color: black;
-    border-radius: 25px;
-    border-width: 1px;
-    width: 20%;
-    height: 60px;
-    background-color: white;
-    margin-left: 20px;}
+  border-style: solid;
+  border-color: white;
+  border-radius: 25px;
+  border-width: 1px;
+  width: 20%;
+  height: 60px;
+  background-color: lightgrey;
+  margin-left: 4%;
+  margin-right: 4%;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 4px;}
 
 /*Button2-Girls Who Code*/
-#Button2 {float: left;
-    clear: left;
-    border-style: solid;
-    border-color: black;
-    border-radius: 25px;
-    border-width: 1px;
-    width: 20%;
-    height: 60px;
-    background-color: white;
-    margin-left: 20px;
-    margin-top: 20px;}
+#Button2 {clear: left;
+  border-style: solid;
+  border-color: white;
+  border-radius: 25px;
+  border-width: 1px;
+  width: 20%;
+  height: 60px;
+  background-color: lightgrey;
+  margin-left: 4%;
+  margin-right: 4%;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 4px;}
 
-/*Button2-Blog*/
-#Button3 {float: left;
-    clear: left;
-    border-style: solid;
-    border-color: black;
-    border-radius: 25px;
-    border-width: 1px;
-    width: 20%;
-    height: 60px;
-    background-color: white;
-    margin-left: 20px;
-    margin-top: 20px;}
+/*Button3-Blog*/
+#Button3 {clear: left;
+  border-style: solid;
+  border-color: white;
+  border-radius: 25px;
+  border-width: 1px;
+  width: 20%;
+  height: 60px;
+  background-color: lightgrey;
+  margin-left: 4%;
+  margin-right: 4%;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 4px;}
+
+/*Button4-Photos*/
+#Button4 {clear: left;
+  border-style: solid;
+  border-color: white;
+  border-radius: 25px;
+  border-width: 1px;
+  width: 20%;
+  height: 60px;
+  background-color: lightgrey;
+  margin-left: 4%;
+  margin-right: 4%;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 4px;}
 
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
 #Article {border-style: solid;
@@ -78,11 +108,13 @@ hr {border-color: black;
     border-radius: 30px;
     float: right;
     background-color: white;
-    width: 72.25%;
+    width: 70%;
+    height: 400px;
+    magrin-top: 20px;
     margin-left: 15px;
     margin-right: 15px;
-    top: auto;
-    top: 80px;}
+    position: relative;
+    bottom: 310px;}
 
 /*Next heading. This is a  test*/
 h2 {background-color: white;
