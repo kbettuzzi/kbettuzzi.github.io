@@ -128,13 +128,3 @@ p {background-color: white;
     text-indent: 5px;
     color: black;
     text-size: 90%;}
-
-#Webpage2 {width: 75%;
-    height: 85%;
-    background-color: white;
-    border: 2px solid white;
-    border-radius: 30px;
-    margin: auto;
-    padding: 10px;
-    position: absolute;
-    float: left;}
