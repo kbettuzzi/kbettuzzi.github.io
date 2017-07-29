@@ -14,7 +14,8 @@ body {background-color: MidnightBlue;
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%);}
+    transform: translate(-50%, -50%);
+    float:top;}
 
 /*Kathryn Bettuzzi*/
 #Title {background-color: white;
@@ -128,3 +129,5 @@ p {background-color: white;
     text-indent: 5px;
     color: black;
     text-size: 90%;}
+
+#Webpage2 {clear:top;}
