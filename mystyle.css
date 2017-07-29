@@ -130,4 +130,16 @@ p {background-color: white;
     color: black;
     text-size: 90%;}
 
-#Webpage2 {clear:top;}
+#Webpage2 {clear:top;
+    width: 75%;
+    height: 85%;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin: auto;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);}
