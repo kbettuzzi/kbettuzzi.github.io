@@ -8,7 +8,7 @@ body {background-color: MidnightBlue;
 #Webpage {width: 75%;
     height: 85%;
     background-color: white;
-    border: 2px solid white;
+    border: 1px solid black;
     border-radius: 30px;
     margin: auto;
     padding: 10px;
@@ -105,11 +105,7 @@ hr {border-color: black;
   letter-spacing: 4px;}
 
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
-#Article {border-style: solid;
-    /*border-color: black;*/
-    border-width: 1px;
-    border-radius: 30px;
-    float: right;
+#Article {float: right;
     background-color: white;
     width: 70%;
     height: 400px;
