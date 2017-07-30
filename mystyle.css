@@ -144,4 +144,5 @@ p {background-color: white;
     transform: translate(-50%, -50%);
     position: relative;
     top: 900px;
-    left: 200px;}
+    left: 200px;
+    clear: center;}
