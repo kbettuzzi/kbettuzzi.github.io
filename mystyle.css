@@ -133,16 +133,17 @@ p {background-color: white;
     text-size: 90%;}
 
 #Webpage2 {width: 75%;
-    height: 700px;
+    height: 900px;
     background-color: white;
     border: 2px solid white;
     border-radius: 30px;
     margin: auto;
     padding: 10px;
     left: 50%;
-    margin-right: -50%;
+    margin-right: 25%;
+    margin-bottom: 15%;
     transform: translate(-50%, -50%);
     position: relative;
-    top: 900px;
+    top: 1030px;
     left: 200px;
     clear: center;}
