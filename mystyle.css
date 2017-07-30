@@ -132,7 +132,7 @@ p {background-color: white;
     color: black;
     text-size: 90%;}
 
-#Webpage2 {clear: bottom;
+#Webpage2 {clear: center;
     width: 75%;
     height: 85%;
     background-color: white;
@@ -146,4 +146,4 @@ p {background-color: white;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     position: relative;
-    top: 700px;}
+    top: 600px;}
