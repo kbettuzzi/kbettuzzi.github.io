@@ -106,7 +106,7 @@ hr {border-color: black;
 
 /*Article Container(Article)-holds the 'Next Heading...' and 'Information'*/
 #Article {border-style: solid;
-    border-color: black;
+    /*border-color: black;*/
     border-width: 1px;
     border-radius: 30px;
     float: right;
