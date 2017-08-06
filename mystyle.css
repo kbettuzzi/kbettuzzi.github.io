@@ -2,7 +2,8 @@ body {background-color: MidnightBlue;
     text-align: center;
     background-image: url(https://image.ibb.co/nsNx0Q/bridge.jpg);
     background-size: 800px 850px;
-    background-repeat: repeat;}
+    background-repeat: repeat;
+    height: relative;}
 
 /*Conatiner for all Webpage content*/
 #Webpage {width: 75%;
