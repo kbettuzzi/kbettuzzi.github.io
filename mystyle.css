@@ -6,6 +6,7 @@ body {background-color: MidnightBlue;
 
 /*Conatiner for all Webpage content*/
 #Webpage {width: 75%;
+    margin: 12.5%;
     height: relative;
     background-color: white;
     border: 1px solid white;
@@ -15,7 +16,6 @@ body {background-color: MidnightBlue;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-right: -50%;
     transform: translate(-50%, -50%);
     float:top;}
 
