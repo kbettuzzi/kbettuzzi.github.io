@@ -6,7 +6,7 @@ body {background-color: MidnightBlue;
 
 /*Conatiner for all Webpage content*/
 #Webpage {width: 75%;
-    height: 85%;
+    height: relative;
     background-color: white;
     border: 1px solid white;
     border-radius: 30px;
