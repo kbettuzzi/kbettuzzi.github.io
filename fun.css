@@ -1,0 +1,43 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+/*ToolBar Code-Begins(Here)*/
+ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: grey;
+      }
+li {
+      font-family: 'Open Sans', sans-serif;
+      letter-spacing: 3px;
+      float: left;
+      text-transform: uppercase;
+      width: 33.33%;
+      /*margin-left: 25px;*/
+    }
+li a {
+      display: block;
+      color: #FFFFFF;
+      text-align: center;
+      /*width: 33.33%;*/
+      padding: 25px;
+      text-decoration: none;
+    }
+li a:hover {
+      background-color: lightblue;
+    }
+
+    #PgNam {
+      size: 150%;
+      text-transform: uppercase;
+      font-family: 'Playfair Display', serif;
+        font-size: 64px;
+      }
