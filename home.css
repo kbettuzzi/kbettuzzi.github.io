@@ -1,9 +1,5 @@
 body {
 background-color: lightblue;
-<<<<<<< HEAD
-font-family: "Georgia", Times, serif;
-=======
->>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
 }
 
 h1 {
@@ -17,16 +13,10 @@ ul {
       margin: 0;
       padding: 0;
       overflow: hidden;
-<<<<<<< HEAD
       background-color: slategrey;
       }
 li {
-=======
-      background-color: grey;
-      }
-li {
       font-family: 'Open Sans', sans-serif;
->>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
       letter-spacing: 3px;
       float: left;
       text-transform: uppercase;
@@ -42,101 +32,18 @@ li a {
       text-decoration: none;
     }
 li a:hover {
-      background-color: lightblue;
+      background-color: white;
+      color: slategrey;
     }
 
-#LeftColumn {
-  float: left;
-  width: 68%;
-  height: relative;
-  padding: 0;
-  margin: 1%;
-  margin-left: 0;
-  margin-right: 2%;
-}
-#RightColumn {
-  float: right;
-  width: 28%;
-  height: relative;
-  padding: 0;
-  margin: 1%;
-  margin-right: 0;
-  margin-left: 2%;}
-
-#PgNam {
-<<<<<<< HEAD
-  text-transform: uppercase;
-  font-family: 'Playfair Display', serif;
-  font-size: 64px;
-  text-transform: uppercase;
-  letter-spacing: 10px;
-=======
-  size: 150%;
-  text-transform: uppercase;
-  font-family: 'Playfair Display', serif;
-  font-size: 64px;
->>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
-}
-
-.Info {
-  margin: 1%;
-  padding: 2%;
-  height: relative;
-  color: grey;
-  background-color: white;
-  border-radius: 20px;
-  border: white;
-  float: left;
-}
-#AboutMeIc {
-  clear:left;
-}
-
-#Main.Info {
-  width: 98%;
-  height: relative;
-}
-
-#AboutMe.Info {
-  width: 98%;
-  float:auto;
-  margin: 1%;
-  padding: 0;
-}
-
-.header {
-  text-align: center;
-}
-
-.body {
-  text-align: left;
-  text-indent: 32px;
-}
-
-.IconInfoBox {
-  display: table;
-  width:31%;
-  height: 250px;
-  float:left;
-  margin:1%;
-  padding:0;
-}
-
-#ProfileImageCon {
-  text-align: center;
-}
-
-.iconheader {
-  text-align: center;
-  size: 75%;
-  margin-bottom: 10px;
-}
-
-.IconPicCon {
-  text-align: center;
-}
-
-.IconDesc {
-  font-style: italic;
-  text-align: center;
+    #PgNam {
+      size: 150%;
+      text-transform: uppercase;
+      font-family: 'Playfair Display', serif;
+        font-size: 64px;
+      }
+.info {
+  width:80%;
+  float: center;
+  background-color:white;
 }
