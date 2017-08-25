@@ -13,7 +13,11 @@ ul {
       margin: 0;
       padding: 0;
       overflow: hidden;
+<<<<<<< HEAD
       background-color: slategrey;
+=======
+      background-color: grey;
+>>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
       }
 li {
       font-family: 'Open Sans', sans-serif;

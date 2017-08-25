@@ -1,6 +1,9 @@
 body {
 background-color: lightblue;
+<<<<<<< HEAD
 font-family: "Georgia", Times, serif;
+=======
+>>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
 }
 
 h1 {
@@ -14,9 +17,16 @@ ul {
       margin: 0;
       padding: 0;
       overflow: hidden;
+<<<<<<< HEAD
       background-color: slategrey;
       }
 li {
+=======
+      background-color: grey;
+      }
+li {
+      font-family: 'Open Sans', sans-serif;
+>>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
       letter-spacing: 3px;
       float: left;
       text-transform: uppercase;
@@ -54,11 +64,18 @@ li a:hover {
   margin-left: 2%;}
 
 #PgNam {
+<<<<<<< HEAD
   text-transform: uppercase;
   font-family: 'Playfair Display', serif;
   font-size: 64px;
   text-transform: uppercase;
   letter-spacing: 10px;
+=======
+  size: 150%;
+  text-transform: uppercase;
+  font-family: 'Playfair Display', serif;
+  font-size: 64px;
+>>>>>>> 99934eb5405a5b9763bc1239e061dd6f070aec14
 }
 
 .Info {
