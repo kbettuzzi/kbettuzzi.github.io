@@ -1,0 +1,36 @@
+body {
+background-color: lightblue;
+}
+
+#PgNam {
+  size: 150%;
+  text-transform: uppercase;
+  font-family: 'Playfair Display', serif;
+    font-size: 64px;
+  }
+
+#ToolBarHolder {
+width: 100%;
+}
+
+div.ToolBarButton:hover {
+  background-color: white;
+  color: grey;
+}
+
+.ToolBarButton {
+width: 32%;
+height: 50px;
+margin: 0.5%;
+padding: 0;
+background-color: slategrey;
+color: white;
+border-radius: 15px;
+float: left;
+text-align: center;
+}
+
+.ToolBarTitle {
+  padding: 0;
+  margin: 0;
+}
